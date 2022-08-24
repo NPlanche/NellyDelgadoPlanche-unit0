@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/sWC1vH9EVC.gif' title='Simple Tipping Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/SP6WSDKojf.gif' title='Simple Tipping Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
